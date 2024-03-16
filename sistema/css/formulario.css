@@ -58,4 +58,16 @@ input,select{
 .alert p{
     padding: 10px;
 }
-
+/***************************Lista Usuario*************************************/
+#container h1{
+	font-size: 35px;
+	display:inline-block;
+}
+.btn_new{
+	display: inline;
+	background: #239baa ;
+	color: #FFF;
+	padding: 5px 25px;
+	border-radius: 4px;
+	margin: 20px;
+}
